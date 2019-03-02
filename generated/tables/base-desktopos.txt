@@ -1,0 +1,6 @@
+DesktopOS Count
+Windows 316
+Linux 158
+Mac 111
+Other 6
+Total 591

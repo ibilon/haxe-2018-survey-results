@@ -1,0 +1,10 @@
+MobileOS Count
+Android 438
+Ios 119
+Windows 11
+NotApplicable 7
+Blackberry 3
+Other 2
+Linux 1
+Multiple 1
+Total 582

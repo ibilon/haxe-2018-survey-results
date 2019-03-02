@@ -1,0 +1,9 @@
+Browser Count
+Chrome 326
+Firefox 209
+Safari 21
+Other 14
+Opera 14
+Edge 8
+InternetExplorer 1
+Total 593

@@ -1,0 +1,5 @@
+Macros Count
+Yes 246
+No 221
+DontKnow 107
+Total 574

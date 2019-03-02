@@ -1,0 +1,9 @@
+PlanInterest Count
+Professional 38
+Enterprise 6
+Elite 5
+Bounty 4
+IfICould 3
+Individual 2
+Paid 2
+Total 60

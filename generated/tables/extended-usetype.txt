@@ -1,0 +1,5 @@
+UseType Count
+Hobby 254
+MainPro 151
+OccasionalPro 67
+Total 472

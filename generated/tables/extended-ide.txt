@@ -1,0 +1,16 @@
+IDE Count
+VSCode 223
+FHDevelop 110
+IntelliJ 58
+Sublime 41
+Vim 31
+Atom 19
+Emacs 9
+Kode 6
+None 4
+Geany 3
+Multiple 2
+NotepadPlusPlus 2
+TextMate 1
+WebBased 1
+Total 510

@@ -1,0 +1,10 @@
+Support Count
+Hundred 274
+Nothing 174
+FiveHundred 39
+Thousand 18
+HundredThousandPlus 6
+TwentyThousand 6
+FiveThousand 5
+HundredThousand 0
+Total 522

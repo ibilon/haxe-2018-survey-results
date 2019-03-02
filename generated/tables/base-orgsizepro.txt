@@ -1,0 +1,10 @@
+OrgSizePro Count
+TwoTen 66
+LessEqOne 61
+TenTwentyFive 23
+TwentySixHundred 17
+FiveHundredOneFifteenHundred 15
+HundredOneFiveHundred 13
+FifteenHundredOneTenThousand 9
+TenThousandPlus 2
+Total 206

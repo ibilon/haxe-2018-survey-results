@@ -1,0 +1,8 @@
+Salary Count
+USD30k 175
+USD50k 76
+USD100k 51
+USD70k 46
+USD150k 24
+USD150kPlus 11
+Total 383

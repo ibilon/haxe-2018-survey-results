@@ -1,0 +1,8 @@
+Communication Count
+Forum 257
+Twitter 148
+Other 113
+Gitter 64
+IRC 36
+Facebook 13
+Total 631

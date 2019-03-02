@@ -1,0 +1,4 @@
+KnowPaid Count
+No 297
+Yes 279
+Total 576

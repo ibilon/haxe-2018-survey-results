@@ -1,0 +1,6 @@
+Number Count
+0 23
+1 447
+2 101
+3 30
+Total 601

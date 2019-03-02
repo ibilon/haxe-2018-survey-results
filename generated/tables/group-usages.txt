@@ -1,0 +1,8 @@
+Usages Count
+Games 693
+App 485
+Web 379
+SoftwareLib 121
+Art 42
+Other 13
+Total 1733

@@ -1,0 +1,7 @@
+ProgLength Count
+FifteenMore 153
+SevenTen 131
+TenFifteen 125
+ThreeFive 109
+OneThree 84
+Total 602

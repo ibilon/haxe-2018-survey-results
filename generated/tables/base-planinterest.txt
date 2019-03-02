@@ -1,0 +1,7 @@
+PlanInterest Count
+Free 451
+Professional 38
+Other 20
+Enterprise 6
+Elite 5
+Total 520

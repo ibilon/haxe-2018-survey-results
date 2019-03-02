@@ -1,0 +1,4 @@
+Partner Count
+No 565
+Yes 12
+Total 577

@@ -1,0 +1,13 @@
+Usages Count
+DesktopGames 339
+MobileGames 274
+FrontEndWeb 238
+DesktopApp 188
+Cli 160
+BackEndWeb 141
+MobileApp 135
+SoftwareLib 121
+ConsoleGames 66
+Art 42
+Other 30
+Total 1734

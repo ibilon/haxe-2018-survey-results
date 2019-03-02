@@ -1,0 +1,16 @@
+Publish Count
+Web 314
+AndroidStore 144
+Itch 102
+IosStore 99
+Other 74
+Steam 58
+AmazonStore 16
+MacStore 16
+Switch 12
+Ps4 12
+Gog 11
+XboxOne 11
+WindowsStore 10
+PsVita 4
+Total 883

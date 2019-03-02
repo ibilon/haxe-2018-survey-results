@@ -1,0 +1,15 @@
+Install Count
+Official 443
+LinuxPM 138
+Homebrew 54
+Source 50
+Npm 23
+Chocolatey 15
+Lix 10
+Bundled 7
+Other 6
+Manual 4
+Hvm 2
+Docker 2
+DevSnapshot 1
+Total 755

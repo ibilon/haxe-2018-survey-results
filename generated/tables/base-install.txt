@@ -1,0 +1,9 @@
+Install Count
+Official 443
+LinuxPM 138
+Homebrew 54
+Source 50
+Other 31
+Npm 23
+Chocolatey 15
+Total 754

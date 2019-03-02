@@ -1,0 +1,14 @@
+Targets Count
+Js 419
+Cpp 337
+Neko 178
+Flash 160
+Java 100
+Python 87
+Hl 84
+Cs 81
+Php 77
+Interp 73
+Lua 32
+As3 20
+Total 1648
