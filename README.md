@@ -4,6 +4,6 @@ Data and parsing for the 2018 Haxe survey.
 
 Do `haxe build.hxml` to regenerate all of `generated/`.
 
-The raw data and cleaned data are available under the [Open Database License](https://opendatacommons.org/licenses/odbl/index.html) license.
+The [raw data](blob/master/data.csv) and [cleaned data](blob/master/generated/clean.csv) are available under the [Open Database License](https://opendatacommons.org/licenses/odbl/index.html) license.
 The code is MIT licensed.
 See LICENSE.md.
